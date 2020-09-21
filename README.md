@@ -1,5 +1,7 @@
-## Running Demo on - 
-https://spo-clo-ap.web.app/
+Running Demo on https://spo-clo-ap.web.app/
+
+Thanks to @github/CleverProgrammers :rocket:
+[@CleverProgrammers/spotify-clone](https://github.com/CleverProgrammers/spotify-clone)
 
 ## You must need Spotify Premium to use Player with code
 
